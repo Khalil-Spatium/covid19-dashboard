@@ -8,7 +8,7 @@ You can find [here](https://covid19-api-access.herokuapp.com/) the Covid19-API.
 
 # Shiny interface
 
-![alt text](./covid_dash.png "Shiny interface")
+![alt text](./dashboard-image.png "Shiny interface")
 
 # Resources
 [Yanchang Zhao, COVID-19 Data Analysis with R – Worldwide. RDataMining.com, 2020](http://www.rdatamining.com/docs/Coronavirus-data-analysis-world.pdf)
