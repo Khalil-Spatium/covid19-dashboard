@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1589412111440.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "931903438",
+    "id" : "1E2DE931",
+    "lastKnownWriteTime" : 1590366433,
+    "last_content_update" : 1590366433266,
+    "path" : "C:/Users/T470s/projects/coviddashboard/covid19App/app.R",
+    "project_path" : "covid19App/app.R",
+    "properties" : {
+        "cursorPosition" : "46,144",
+        "scrollLine" : "33"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
