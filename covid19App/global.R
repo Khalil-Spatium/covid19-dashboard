@@ -34,7 +34,7 @@ library(mongolite)
 # }
 
 # create a connection to mongodb
-dbconnection <- mongo(collection = "countries", db = "covid", url = "<MONGODB_CONNECTION_CHENGE_IT_TO_YOUR_OWN_DBCONECTION>")
+dbconnection <- mongo(collection = "countries", db = "covid", url = "<MONGODB_CONNECTION_CHANGE_IT_TO_YOUR_OWN_DBCONECTION>")
 
 
 # create a dataset for countries
